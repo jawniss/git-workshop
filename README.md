@@ -2,6 +2,7 @@
 # 
 # This is my "First" repo
 
-Dope cat:
 
-![Dope cat](./cat.gif)
+Awesome cat: 
+
+![awesome cat](./cat.gif)
